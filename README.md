@@ -161,19 +161,6 @@ Microsoft also recommends securing data in transit using \*\*TLS 1.2+\*\* when s
 \---
 
 
-
-\## License
-
-
-
-Choose a license appropriate for your repo (MIT is common for community scripts).
-
-
-
-\---
-
-
-
 \## Disclaimer
 
 

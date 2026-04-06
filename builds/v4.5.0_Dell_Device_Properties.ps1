@@ -96,9 +96,9 @@ function Invoke-WebRequestWithRetry {
 }
 
 # ==== Log Analytics Settings (REPLACE PLACEHOLDERS) ====
-$customerId = "788c2c19-91da-4b3f-b914-2bd9fde766e9"
-$sharedKey  = "EyB5XRlDHRn8eLPSu+yIlkOR3/rNxjIlm2mSyR98WeXqHJlmRAMqWDaOuwhDr3LL1DtHXQuuPtTX+dYhS5pm6g=="
-$logType    = "Pilot_Dell_Device_Properties"
+$customerId = "Your Log Analytics Workspace ID Here"
+$sharedKey  = "Your Shared Key Here"
+$logType    = "Your Log Analytcis Workspace Table Name Here"
 $TimeStampField = ""
 
 function Build-Signature {
